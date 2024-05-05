@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Franco Suarez
+
+🌱 I’m an agricultural engineer
+👀 I’m currently interested (and learning) statatistics and data processing
 
 <!--
 **FrancoMSuarez/FrancoMSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
