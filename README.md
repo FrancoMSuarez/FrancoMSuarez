@@ -10,7 +10,7 @@
 
 💬 Ask me about agricultural engineering, data analysis in R, or my projects related to crop performance.
 
-📫 How to reach me: [suarezfranco@agro.unc.edu.ar] or connect with me on [LinkedIn]([https://ar.linkedin.com/in/francomsuarez]).
+📫 How to reach me: [suarezfranco@agro.unc.edu.ar] or connect with me on [LinkedIn](https://ar.linkedin.com/in/francomsuarez).
 
 😄 Pronouns: He/Him
 
